@@ -21,8 +21,8 @@
 "Priority":"Low",
 "Environment":"1)Redmi Note 8 M1908C3JG ; Android 10",
 "Precondition":"Open the App",
-"STR":[
-"1. Click button Add widget”,
+"STR":["1. Click Add widget button",
+
 "2. Hide application",
 "3. Look the widget icon"
 ],
